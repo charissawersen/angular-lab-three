@@ -1,0 +1,29 @@
+.item {
+  height: auto;
+  width: auto;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 100;
+  color: rgba(43, 94, 104);
+  border: 1px solid rgba(135, 130, 148);
+  background-image: linear-gradient(
+    to right,
+    rgba(243, 204, 217, 0),
+    rgba(243, 204, 217, 1)
+  );
+}
+#pic {
+  border: 1px solid gray;
+  margin: 5px;
+  max-width: 100%;
+  height: auto;
+}
+h3 {
+  margin: 5px;
+}
+a {
+  margin: 5px;
+  color: rgba(111, 202, 187);
+}
+a:hover {
+  color: rgba(43, 94, 104);
+}
